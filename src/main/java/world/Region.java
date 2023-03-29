@@ -1,7 +1,7 @@
 package world;
 
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.Sound;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Sound;
 import misc.Location;
 import misc.MiscMath;
 import misc.Window;
@@ -15,6 +15,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 import java.util.stream.Collectors;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.Sound;
 
 public class Region {
 

@@ -2,10 +2,10 @@ package misc;
 
 import assets.Assets;
 import assets.Settings;
-import com.github.mathiewz.slick.AppGameContainer;
-import com.github.mathiewz.slick.Image;
-import com.github.mathiewz.slick.SlickException;
-import com.github.mathiewz.slick.imageout.ImageOut;
+//import com.github.mathiewz.slick.AppGameContainer;
+//import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.SlickException;
+//import com.github.mathiewz.slick.imageout.ImageOut;
 import org.lwjgl.LWJGLException;
 import org.lwjgl.opengl.Display;
 import org.lwjgl.opengl.DisplayMode;
@@ -17,6 +17,10 @@ import java.util.Calendar;
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
+import org.newdawn.slick.AppGameContainer;
+import org.newdawn.slick.Image;
+import org.newdawn.slick.SlickException;
+import org.newdawn.slick.imageout.ImageOut;
 
 public class Window {
 

@@ -1,9 +1,9 @@
 package gui.elements;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Input;
 import gui.GUIElement;
 import gui.menus.CheatCodeMenu;
 import misc.Location;
@@ -23,6 +23,9 @@ import world.entities.systems.InputProcessingSystem;
 import world.entities.systems.RenderSystem;
 
 import java.util.List;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.Input;
 
 public class CameraViewport extends GUIElement {
 

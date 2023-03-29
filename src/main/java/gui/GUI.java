@@ -1,7 +1,7 @@
 package gui;
 
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
 import gui.elements.Modal;
 import gui.elements.PositionalTextLabel;
 import gui.elements.TextLabel;
@@ -12,6 +12,8 @@ import misc.Window;
 
 import java.util.ArrayList;
 import java.util.Stack;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
 
 public class GUI {
 

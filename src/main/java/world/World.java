@@ -1,6 +1,6 @@
 package world;
 
-import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Graphics;
 import misc.Location;
 import misc.annotations.ServerClientExecution;
 import org.json.simple.JSONObject;
@@ -12,6 +12,7 @@ import world.generation.region.OverworldGenerator;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;
+import org.newdawn.slick.Graphics;
 
 public class World {
 

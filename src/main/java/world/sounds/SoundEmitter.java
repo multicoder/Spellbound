@@ -1,6 +1,6 @@
 package world.sounds;
 
-import com.github.mathiewz.slick.Sound;
+//import com.github.mathiewz.slick.Sound;
 import gui.sound.SoundManager;
 import misc.Location;
 import network.MPClient;
@@ -13,6 +13,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.Collectors;
+import org.newdawn.slick.Sound;
 
 //TODO: convert to component with appropriate system
 public class SoundEmitter {

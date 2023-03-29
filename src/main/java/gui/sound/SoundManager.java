@@ -1,9 +1,10 @@
 package gui.sound;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Sound;
+//import com.github.mathiewz.slick.Sound;
 import misc.Location;
 import org.lwjgl.openal.AL;
+import org.newdawn.slick.Sound;
 import world.events.EventListener;
 
 public class SoundManager {

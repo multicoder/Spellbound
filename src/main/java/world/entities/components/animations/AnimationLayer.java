@@ -1,12 +1,13 @@
 package world.entities.components.animations;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import misc.Colors;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 import java.util.*;
+import org.newdawn.slick.Color;
 
 public class AnimationLayer {
 

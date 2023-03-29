@@ -1,8 +1,8 @@
 package world.particles;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
 import misc.Location;
 import misc.MiscMath;
 import misc.Window;
@@ -13,6 +13,8 @@ import world.Tiles;
 import world.World;
 
 import java.util.ArrayList;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
 
 public class ParticleSource {
 

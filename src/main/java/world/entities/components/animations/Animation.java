@@ -1,13 +1,16 @@
 package world.entities.components.animations;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Image;
-import com.github.mathiewz.slick.SlickException;
+import java.awt.Image;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.SlickException;
 import network.MPClient;
 import org.json.simple.JSONObject;
 
 import java.io.Serializable;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.SlickException;
 
 public class Animation implements Serializable {
 

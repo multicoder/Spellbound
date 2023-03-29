@@ -2,12 +2,12 @@ package main;
 
 import assets.Assets;
 import assets.Settings;
-import com.github.mathiewz.slick.AppGameContainer;
-import com.github.mathiewz.slick.GameContainer;
-import com.github.mathiewz.slick.SlickException;
-import com.github.mathiewz.slick.state.StateBasedGame;
-import com.github.mathiewz.slick.state.transition.FadeInTransition;
-import com.github.mathiewz.slick.state.transition.FadeOutTransition;
+//import com.github.mathiewz.slick.AppGameContainer;
+//import com.github.mathiewz.slick.GameContainer;
+//import com.github.mathiewz.slick.SlickException;
+//import com.github.mathiewz.slick.state.StateBasedGame;
+//import com.github.mathiewz.slick.state.transition.FadeInTransition;
+//import com.github.mathiewz.slick.state.transition.FadeOutTransition;
 import gui.sound.SoundManager;
 import gui.states.*;
 import misc.Window;
@@ -20,6 +20,12 @@ import network.MPServer;
 import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
+import org.newdawn.slick.AppGameContainer;
+import org.newdawn.slick.GameContainer;
+import org.newdawn.slick.SlickException;
+import org.newdawn.slick.state.StateBasedGame;
+import org.newdawn.slick.state.transition.FadeInTransition;
+import org.newdawn.slick.state.transition.FadeOutTransition;
 
 public class GameManager extends StateBasedGame {
 

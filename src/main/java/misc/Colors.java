@@ -1,8 +1,9 @@
 package misc;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 //import net.sourceforge.jnlp.util.optionparser.InvalidArgumentException;
 import org.json.simple.JSONArray;
+import org.newdawn.slick.Color;
 
 public class Colors {
 

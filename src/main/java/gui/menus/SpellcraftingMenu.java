@@ -1,7 +1,7 @@
 package gui.menus;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import gui.GUIAnchor;
 import gui.elements.*;
 import misc.MiscMath;
@@ -13,6 +13,7 @@ import world.entities.components.magic.techniques.Techniques;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import org.newdawn.slick.Color;
 
 public class SpellcraftingMenu extends Modal {
 

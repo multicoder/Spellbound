@@ -1,6 +1,6 @@
 package world.entities.components.magic;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import misc.Location;
 import misc.MiscMath;
 import network.MPServer;

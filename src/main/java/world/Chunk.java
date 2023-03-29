@@ -1,8 +1,8 @@
 package world;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
 import misc.Location;
 import network.MPClient;
 import network.MPServer;
@@ -14,6 +14,8 @@ import world.events.event.ChunkGeneratedEvent;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
 
 public class Chunk {
 

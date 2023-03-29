@@ -1,6 +1,6 @@
 package assets;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import misc.MiscMath;
 import org.json.simple.JSONObject;
 import world.entities.components.SpellbookComponent;
@@ -9,6 +9,7 @@ import world.entities.components.magic.techniques.Techniques;
 
 import java.util.Arrays;
 import java.util.Random;
+import org.newdawn.slick.Color;
 
 public class SpellFactory {
 

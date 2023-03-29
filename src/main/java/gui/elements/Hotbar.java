@@ -1,12 +1,16 @@
 package gui.elements;
 
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.Image;
-import com.github.mathiewz.slick.Input;
-import com.github.mathiewz.slick.SlickException;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.SlickException;
 import gui.GUIElement;
 import misc.MiscMath;
 import network.MPClient;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.Image;
+import org.newdawn.slick.Input;
+import org.newdawn.slick.SlickException;
 import world.entities.components.SpellbookComponent;
 import world.particles.ParticleSource;
 

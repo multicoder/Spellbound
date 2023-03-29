@@ -1,6 +1,6 @@
 package gui.menus;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import gui.GUIAnchor;
 import gui.elements.Button;
 import gui.elements.Modal;
@@ -11,6 +11,7 @@ import network.MPServer;
 import world.entities.components.magic.Spell;
 
 import java.util.Random;
+import org.newdawn.slick.Color;
 
 public class ServerSelectMenu extends Modal {
 

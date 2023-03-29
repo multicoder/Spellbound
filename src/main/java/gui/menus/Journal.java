@@ -1,8 +1,8 @@
 package gui.menus;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Input;
 import gui.GUIAnchor;
 import gui.elements.Button;
 import gui.elements.IconLabel;
@@ -14,6 +14,8 @@ import world.entities.components.SpellbookComponent;
 import world.entities.components.magic.Spell;
 
 import java.util.ArrayList;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Input;
 
 public class Journal extends Modal {
 

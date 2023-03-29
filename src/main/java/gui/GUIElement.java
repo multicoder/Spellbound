@@ -1,14 +1,18 @@
 package gui;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.Image;
-import com.github.mathiewz.slick.SlickException;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.SlickException;
 import misc.MiscMath;
 import misc.Window;
 
 import java.util.ArrayList;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.Image;
+import org.newdawn.slick.SlickException;
 
 public abstract class GUIElement {
 

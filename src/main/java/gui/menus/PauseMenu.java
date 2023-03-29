@@ -1,7 +1,7 @@
 package gui.menus;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import gui.GUIAnchor;
 import gui.elements.Button;
 import gui.elements.Modal;
@@ -11,6 +11,7 @@ import gui.states.GameState;
 import main.GameManager;
 import network.MPClient;
 import network.MPServer;
+import org.newdawn.slick.Color;
 
 public class PauseMenu extends Modal {
 

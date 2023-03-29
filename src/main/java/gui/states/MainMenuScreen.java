@@ -1,8 +1,8 @@
 package gui.states;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Input;
 import gui.GUI;
 import gui.GUIAnchor;
 import gui.elements.Button;
@@ -17,6 +17,7 @@ import java.awt.Desktop;
 import java.io.File;
 import java.io.IOException;
 import java.util.Random;
+import org.newdawn.slick.Color;
 
 public class MainMenuScreen extends GameState {
 

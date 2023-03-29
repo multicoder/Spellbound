@@ -1,8 +1,8 @@
 package gui.elements;
 
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Input;
 import gui.GUIAnchor;
 import gui.GUIElement;
 import misc.Window;
@@ -11,6 +11,8 @@ import java.awt.*;
 import java.awt.datatransfer.DataFlavor;
 import java.awt.datatransfer.UnsupportedFlavorException;
 import java.io.IOException;
+import org.newdawn.slick.Input;
+import org.newdawn.slick.Color;
 
 public class TextBox extends GUIElement {
 

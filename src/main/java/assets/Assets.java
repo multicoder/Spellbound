@@ -1,7 +1,7 @@
 package assets;
 
-import com.github.mathiewz.slick.*;
-import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.*;
+//import com.github.mathiewz.slick.Image;
 import main.GameManager;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -11,6 +11,10 @@ import java.awt.*;
 import java.awt.Font;
 import java.io.*;
 import java.util.HashMap;
+import org.newdawn.slick.SlickException;
+import org.newdawn.slick.Sound;
+import org.newdawn.slick.TrueTypeFont;
+import org.newdawn.slick.Image;
 
 public class Assets {
 

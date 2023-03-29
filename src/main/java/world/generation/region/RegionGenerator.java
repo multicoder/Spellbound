@@ -1,9 +1,10 @@
 package world.generation.region;
 
-import com.github.mathiewz.slick.Sound;
+//import com.github.mathiewz.slick.Sound;
 import org.json.simple.JSONObject;
 
 import java.util.Random;
+import org.newdawn.slick.Sound;
 
 public abstract class RegionGenerator {
 

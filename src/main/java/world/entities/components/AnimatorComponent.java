@@ -1,6 +1,6 @@
 package world.entities.components;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import misc.Colors;
 import misc.MiscMath;
 import misc.annotations.ClientExecution;
@@ -16,6 +16,7 @@ import world.events.event.EntityAnimationActivatedEvent;
 import world.events.event.EntityAnimationDeactivatedEvent;
 
 import java.util.*;
+import org.newdawn.slick.Color;
 
 public class AnimatorComponent extends Component {
 

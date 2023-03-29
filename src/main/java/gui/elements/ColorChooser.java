@@ -1,9 +1,11 @@
 package gui.elements;
 
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
 import gui.GUIElement;
 import misc.MiscMath;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
 
 public class ColorChooser extends GUIElement {
 

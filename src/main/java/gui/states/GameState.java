@@ -1,9 +1,9 @@
 package gui.states;
 
 import assets.Assets;
-import com.github.mathiewz.slick.*;
-import com.github.mathiewz.slick.state.BasicGameState;
-import com.github.mathiewz.slick.state.StateBasedGame;
+//import com.github.mathiewz.slick.*;
+//import com.github.mathiewz.slick.state.BasicGameState;
+//import com.github.mathiewz.slick.state.StateBasedGame;
 import gui.GUI;
 import gui.sound.SoundManager;
 import main.GameManager;
@@ -11,6 +11,13 @@ import misc.Window;
 import network.MPClient;
 import network.MPServer;
 import org.lwjgl.opengl.Display;
+import org.newdawn.slick.GameContainer;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.Image;
+import org.newdawn.slick.Input;
+import org.newdawn.slick.SlickException;
+import org.newdawn.slick.state.BasicGameState;
+import org.newdawn.slick.state.StateBasedGame;
 
 public abstract class GameState extends BasicGameState {
 

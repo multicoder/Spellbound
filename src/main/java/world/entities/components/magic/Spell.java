@@ -1,8 +1,8 @@
 package world.entities.components.magic;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Image;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Image;
 import network.MPServer;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
@@ -14,6 +14,8 @@ import world.entities.components.magic.techniques.Techniques;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Image;
 
 public class Spell {
 

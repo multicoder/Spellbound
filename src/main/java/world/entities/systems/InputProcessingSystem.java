@@ -1,6 +1,6 @@
 package world.entities.systems;
 
-import com.github.mathiewz.slick.Input;
+//import com.github.mathiewz.slick.Input;
 import misc.MiscMath;
 import network.MPClient;
 import world.Camera;
@@ -11,6 +11,7 @@ import world.entities.components.LocationComponent;
 import world.entities.components.VelocityComponent;
 
 import java.util.Set;
+import org.newdawn.slick.Input;
 
 public class InputProcessingSystem {
 

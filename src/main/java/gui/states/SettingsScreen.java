@@ -1,7 +1,7 @@
 package gui.states;
 
 import assets.Settings;
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import gui.GUI;
 import gui.GUIAnchor;
 import gui.elements.Button;
@@ -14,6 +14,7 @@ import org.lwjgl.opengl.DisplayMode;
 
 import java.util.List;
 import java.util.stream.Collectors;
+import org.newdawn.slick.Color;
 
 public class SettingsScreen extends GameState {
 

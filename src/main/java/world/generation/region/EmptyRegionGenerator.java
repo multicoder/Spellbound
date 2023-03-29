@@ -1,8 +1,9 @@
 package world.generation.region;
 
-import com.github.mathiewz.slick.Sound;
+//import com.github.mathiewz.slick.Sound;
 import gui.sound.SoundManager;
 import org.json.simple.JSONObject;
+import org.newdawn.slick.Sound;
 import world.Tiles;
 
 public class EmptyRegionGenerator extends RegionGenerator {

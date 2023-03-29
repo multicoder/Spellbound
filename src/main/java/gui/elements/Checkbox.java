@@ -1,7 +1,8 @@
 package gui.elements;
 
-import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Color;
 import gui.GUIAnchor;
+import org.newdawn.slick.Color;
 
 public class Checkbox extends Button {
 

@@ -1,14 +1,17 @@
 package gui.elements;
 
 import assets.Assets;
-import com.github.mathiewz.slick.Color;
-import com.github.mathiewz.slick.Graphics;
-import com.github.mathiewz.slick.TrueTypeFont;
+//import com.github.mathiewz.slick.Color;
+//import com.github.mathiewz.slick.Graphics;
+//import com.github.mathiewz.slick.TrueTypeFont;
 import gui.GUIElement;
 import gui.sound.SoundManager;
 import misc.Window;
 
 import java.util.ArrayList;
+import org.newdawn.slick.Color;
+import org.newdawn.slick.Graphics;
+import org.newdawn.slick.TrueTypeFont;
 
 public class TextLabel extends GUIElement {
 
